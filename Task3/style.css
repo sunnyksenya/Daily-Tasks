@@ -1,0 +1,9 @@
+.tab-h {
+  display: inline;
+  background-color: lime;
+  width: 100px;
+}
+.tab-b {
+  display: none;
+  background-color: yellow;
+}
